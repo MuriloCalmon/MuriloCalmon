@@ -1,21 +1,23 @@
-### Olá! Me chamo Murilo Calmon, bem vindo! 👋😀
+### Olá! Me chamo Murilo Calmon, bem vindo! ✋😁
 
+- Atualmente estudando HTML, CSS e JS
 
--  Atualmente estudando HTML, CSS, JS
--  Em breve React
--  Busco me tornar Dev Front-End
+- EM breve React.js
 
+- Em busca de me tornar Dev - FrontEnd
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-calmon-3a7876234/)
+[![Portifolio](https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white)](https://murilocalmon.github.io/Portifolio/)
+
+![Murilo Calmon GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCalmon&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCalmon&layout=compact)]()
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="murilo-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="murilo-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="murilo-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   <br>
 <div> 
 
-  
-  <a href="https://www.linkedin.com/in/murilo-calmon-3a7876234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://murilocalmon.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
-
-</div>
