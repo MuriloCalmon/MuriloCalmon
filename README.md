@@ -19,3 +19,5 @@
   <br>
 <div> 
 
+![snake gif](https://github.com/MuriloCalmon/MuriloCalmon/blob/output/github-contribution-grid-snake.gif)
+
