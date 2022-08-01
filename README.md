@@ -5,11 +5,6 @@
 -  Em breve React
 -  Busco me tornar Dev Front-End
 
-<div>
-  <a href="https://github.com/MMuriloCalmon">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuriloCalmon&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCalmon&layout=compact&langs_count=7&theme=solarized-dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
