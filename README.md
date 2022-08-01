@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/murilo-calmon-3a7876234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://ymatheusvieira.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
-![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MuriloCalmon/MuriloCalmon/blob/output/github-contribution-grid-snake.svg)
 
 </div>
