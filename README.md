@@ -1,9 +1,9 @@
 ### Olá! Me chamo Murilo Calmon, bem vindo! 👋😀
 
 
-- 🌱 Atualmente estudando HTML, CSS, JS
-- 🌱 Em breve React
-- 👯 Busco me tornar Dev Front-End
+-  Atualmente estudando HTML, CSS, JS
+-  Em breve React
+-  Busco me tornar Dev Front-End
 
 <div>
   <a href="https://github.com/MuriloCalmon">
