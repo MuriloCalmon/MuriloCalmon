@@ -2,9 +2,9 @@
 
 #### - Atualmente estudando HTML, CSS e JS
 
-#### - EM breve React.js
+#### - Em breve React.js
 
-#### - Em busca de me tornar Dev - FrontEnd
+#### - Objetivo: Dev-FrontEnd
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-calmon-3a7876234/)
 [![Portifolio](https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white)](https://murilocalmon.github.io/Portifolio/)
