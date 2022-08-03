@@ -6,10 +6,6 @@
 
 #### - Objetivo: Dev-FrontEnd
 
-<div style="display: inline_block"><br>
-  <img align="center" href="https://www.linkedin.com/in/murilo-calmon-3a7876234/"  target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-calmon-3a7876234/)
 [![Portifolio](https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white)](https://murilocalmon.github.io/Portifolio/)
 
