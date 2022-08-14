@@ -5,9 +5,10 @@
 #### - Em breve React.js
 
 #### - Objetivo: Dev-FrontEnd
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-calmon-3a7876234/)
-[![Portifolio](https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white)](https://murilocalmon.github.io/Portifolio/)
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/murilo-calmon-3a7876234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://murilocalmon.github.io/Portifolio/"><img src="https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white" ></a> 
+</div>
 
 ![Murilo Calmon GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCalmon&show_icons=true&theme=radical)
 
@@ -21,7 +22,6 @@
   <img align="center" alt="murilo-sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   <br>
-<div> 
 
 ![snake gif](https://github.com/MuriloCalmon/MuriloCalmon/blob/output/github-contribution-grid-snake.gif)
 
