@@ -6,8 +6,8 @@
 
 #### - Objetivo: Dev-FrontEnd
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/murilo-calmon-3a7876234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  <a href="https://murilocalmon.github.io/Portifolio/"><img src="https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white" ></a> 
+  <a href="https://www.linkedin.com/in/murilo-calmon-3a7876234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://murilocalmon.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white" ></a> 
 </div>
 
 ![Murilo Calmon GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCalmon&show_icons=true&theme=radical)
