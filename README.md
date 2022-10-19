@@ -1,8 +1,6 @@
 ## Olá! Me chamo Murilo Calmon, bem vindo! ✋😁
 
-#### - Atualmente estudando HTML, CSS e JS
-
-#### - Em breve React.js
+#### - Atualmente estudando HTML, CSS, JS e React
 
 #### - Objetivo: Dev-FrontEnd
 <div style="display: inline_block"><br>
