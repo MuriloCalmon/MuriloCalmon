@@ -8,7 +8,7 @@
   <a href="https://murilocalmon.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?label=portifolio&style=for-the-badge&logo=About.me&logoColor=white" ></a> 
 </div>
 
-![Murilo Calmon GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCalmon&show_icons=true&theme=radical)
+![Murilo Calmon GitHub stats](https://github-readme-stats.vercel.app/api?username=murilocalmon&show_icons=true&theme=radical)
 
 #### - Languages and tools
 
