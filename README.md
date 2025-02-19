@@ -9,6 +9,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloCalmon&bg_color=000000&color=636b2f&line=636b2f&point=636b2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![snake gif](https://github.com/MuriloCalmon/MuriloCalmon/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">  
 <a href="https://https://www.instagram.com/mucacalmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
